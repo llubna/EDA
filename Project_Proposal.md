@@ -18,7 +18,6 @@ users unlock a scooter through the company’s smartphone app. the Scooters will
 
 - value for the compnay to make more profite we have to study the places where the scooters will be distributed.
 
-- 
 ### Data Description:
 
 #### What is MTA ?
