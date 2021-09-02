@@ -2,9 +2,9 @@
 
 
 
- Name: Lubna Almuammar ,
- Email: LubnaIbrahim@outlook.sa,
- Github:lluban.
+ * Name: Lubna Almuammar.
+ * Email: LubnaIbrahim@outlook.sa.
+ * Github:lluban.
 
 ### Background:
 
@@ -54,8 +54,8 @@ recent three months, because it will be the most useful to use since we need a n
 
 
 #### Tools:
-* How do you intend to meet the tools requirement of the project? 
-* Are you planning in advance to need or use additional tools beyond those required?
+* technologies: SQL,SQLite,python,jupyter notebook.
+* libraries: Numpy,Pandas, matplotlib.
 
 #### MVP Goal:
-* What would a [minimum viable product (MVP)](./mvp.md) look like for this project?
+* The goals of an MVP are to validate the premise of a product, to test hypotheses about market needs, to make adjustments to the product vision, and to prioritize where to invest in future development. As such, MVPs are a profoundly powerful approach towards finding product-market fit.
