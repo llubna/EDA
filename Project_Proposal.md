@@ -1,7 +1,7 @@
 ## Project Proposal 
 
 
-
+### Personal Info:
  * Name: Lubna Almuammar.
  * Email: LubnaIbrahim@outlook.sa.
  * Github:lluban.
@@ -47,8 +47,9 @@ Data sourse from http://web.mta.info/developers/turnstile.html
 | ENTRIES    | The comulative entry register value for a device                                |
 | EXITS      | The cumulative exit register value for a device                                 |
 
- - Sample size (as time used) 3/5 monthes why?
-recent three months, because it will be the most useful to use since we need a new data.
+* the Sample size is recent three months from Jun to Sept 2021, because it will be the most useful to use since we need a new data.
+* the dataset has 2932345 rows and 11 columns
+
  
 
 
